@@ -12,10 +12,10 @@ The projects in this repository are broken down into two main sections: Explorat
 
 ### EDA and Prediction Models
 
-- **Customer Churn Rate Analysis and Predicting Customer Churn**: This ![project](https://github.com/SandraAsagade/Kaggle/blob/main/Customer%20Churn/customer-churn-eda-and-prediction.ipynb) combines EDA and predictive modeling to understand the factors contributing to customer churn and to develop models that predict the likelihood of customers leaving a service.
+- **Customer Churn Rate Analysis and Predicting Customer Churn**: This [project](https://github.com/SandraAsagade/Kaggle/blob/main/Customer%20Churn/customer-churn-eda-and-prediction.ipynb) combines EDA and predictive modeling to understand the factors contributing to customer churn and to develop models that predict the likelihood of customers leaving a service.
 
-- **Predicting the Likelihood of Titanic Passengers Being Transported or Not**: This ![project](https://github.com/SandraAsagade/Kaggle/blob/main/SPACESHIP_TITANIC/SPACESHIP%20TITANIC.ipynb) involves both EDA and prediction models to determine which passengers were likely to be transported. The analysis includes visualizing passenger demographics and survival rates, followed by building models to predict outcomes based on various features.
+- **Predicting the Likelihood of Titanic Passengers Being Transported or Not**: This [project](https://github.com/SandraAsagade/Kaggle/blob/main/SPACESHIP_TITANIC/SPACESHIP%20TITANIC.ipynb) involves both EDA and prediction models to determine which passengers were likely to be transported. The analysis includes visualizing passenger demographics and survival rates, followed by building models to predict outcomes based on various features.
 
 Feel free to explore the projects and review the code and analyses. Each project folder contains detailed Jupyter notebooks that document the steps and methodologies used. Thank you for visiting my repository!
 
-Visit my kaggle ![profile](https://www.kaggle.com/sandraasagade/code)
+Visit my kaggle [profile](https://www.kaggle.com/sandraasagade/code)
