@@ -8,7 +8,7 @@ The projects in this repository are broken down into two main sections: Explorat
 
 ### Exploratory Data Analysis (EDA)
 
-- **Analyzing Global Cancer Death Rate (1990 - 2019)**: This ![project](https://github.com/SandraAsagade/Kaggle/blob/main/CANCER%20DEATH%20RATES/CANCER%20DR.ipynb) involves a comprehensive analysis of global cancer death rates over three decades. The EDA includes visualizations and insights into trends, geographical distributions, and age-specific mortality rates.
+- **Analyzing Global Cancer Death Rate (1990 - 2019)**: This [project](https://github.com/SandraAsagade/Kaggle/blob/main/CANCER%20DEATH%20RATES/CANCER%20DR.ipynb) involves a comprehensive analysis of global cancer death rates over three decades. The EDA includes visualizations and insights into trends, geographical distributions, and age-specific mortality rates.
 
 ### EDA and Prediction Models
 
